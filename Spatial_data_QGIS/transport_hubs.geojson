@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "transport_hubs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n308149", "osm_id": "308149", "operator:branch": "Октябрьская железная дорога", "operator": "ОАО «РЖД»", "name": "Пискарёвка" }, "geometry": { "type": "Point", "coordinates": [ 356346.066208328818902, 6652893.358155745081604 ] } },
+{ "type": "Feature", "properties": { "full_id": "n90551453", "osm_id": "90551453", "operator:branch": null, "operator": "ГУП «Петербургский метрополитен»", "name": "Удельная" }, "geometry": { "type": "Point", "coordinates": [ 350521.395710466254968, 6656439.184314980171621 ] } },
+{ "type": "Feature", "properties": { "full_id": "n96449579", "osm_id": "96449579", "operator:branch": null, "operator": "ГУП «Петербургский метрополитен»", "name": "Чёрная речка" }, "geometry": { "type": "Point", "coordinates": [ 349420.480313106148969, 6653060.710963377729058 ] } },
+{ "type": "Feature", "properties": { "full_id": "n96453108", "osm_id": "96453108", "operator:branch": null, "operator": "ГУП «Петербургский метрополитен»", "name": "Пионерская" }, "geometry": { "type": "Point", "coordinates": [ 349244.144910795381293, 6654972.471226561814547 ] } },
+{ "type": "Feature", "properties": { "full_id": "n96459081", "osm_id": "96459081", "operator:branch": null, "operator": "ГУП «Петербургский метрополитен»", "name": "Озерки" }, "geometry": { "type": "Point", "coordinates": [ 350759.791968659963459, 6658368.007532838732004 ] } },
+{ "type": "Feature", "properties": { "full_id": "n158694484", "osm_id": "158694484", "operator:branch": null, "operator": "ГУП «Петербургский метрополитен»", "name": "Девяткино" }, "geometry": { "type": "Point", "coordinates": [ 357648.707757183059584, 6659617.868052162230015 ] } },
+{ "type": "Feature", "properties": { "full_id": "n265301052", "osm_id": "265301052", "operator:branch": "Октябрьская железная дорога", "operator": "ОАО «РЖД»", "name": "Санкт-Петербург-Ладожский" }, "geometry": { "type": "Point", "coordinates": [ 356937.419150798115879, 6646651.667684496380389 ] } },
+{ "type": "Feature", "properties": { "full_id": "Ольгино", "osm_id": null, "operator:branch": null, "operator": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 339990.067262657335959, 6654404.283800030127168 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2012751838", "osm_id": "2012751838", "operator:branch": "Октябрьская железная дорога", "operator": "ОАО «РЖД»", "name": "Новая Деревня" }, "geometry": { "type": "Point", "coordinates": [ 349214.075693182763644, 6653572.884083081968129 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2012751852", "osm_id": "2012751852", "operator:branch": "Октябрьская железная дорога", "operator": "ОАО «РЖД»", "name": "Ручьи" }, "geometry": { "type": "Point", "coordinates": [ 357116.151935470523313, 6654577.656581841409206 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2891968783", "osm_id": "2891968783", "operator:branch": "Октябрьская железная дорога", "operator": "ОАО «РЖД»", "name": "Юный" }, "geometry": { "type": "Point", "coordinates": [ 349290.783830733504146, 6657358.458114818669856 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5644650789", "osm_id": "5644650789", "operator:branch": null, "operator": "ГУП «Петербургский метрополитен»", "name": "Беговая" }, "geometry": { "type": "Point", "coordinates": [ 343915.867141729046125, 6653293.916324623860419 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6242445475", "osm_id": "6242445475", "operator:branch": null, "operator": "ГУП «Петербургский метрополитен»", "name": "Комендантский проспект" }, "geometry": { "type": "Point", "coordinates": [ 347049.977880948339589, 6655732.984668958932161 ] } },
+{ "type": "Feature", "properties": { "full_id": "Яхтенная", "osm_id": null, "operator:branch": null, "operator": null, "name": null }, "geometry": { "type": "Point", "coordinates": [ 344971.336418978637084, 6653774.281021986156702 ] } }
+]
+}

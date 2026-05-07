@@ -12,7 +12,8 @@
 * 📁 **`/Sociological_survey` (данные социологического опроса)**
     * Данные анкетирования пользователей ОКЭС (райдеров)
     * Материалы отражают запросы пользователей к инфраструктуре, частоту использования объектов и оценку их текущего состояния
-<img width="1183" height="726" alt="Frame 1000011105" src="https://github.com/user-attachments/assets/f0fe6eea-eea7-46d7-bf20-0ae87bbf7f77" />
+<img width="1183" height="726" alt="Соцопрос" src="https://github.com/user-attachments/assets/ecf6b258-30b0-4ae1-a56d-bde14d643428" />
+
 
 * 📁 **`/Calculations_excel` (расчетные модели и оценки)**
     * Таблицы с исходными данными и промежуточными расчетами
@@ -21,7 +22,7 @@
 * 📁 **`/Spatial_data_QGIS` (пространственный анализ QGIS)**
     * Файлы проекта и геопространственные слои
     * Включает локализацию объектов, изохроны пешей доступности, точки притяжения
- <img width="239" height="145" alt="QGIS" src="https://github.com/user-attachments/assets/5682c8b6-48cc-4f3f-8b69-7b6da5a9c358" />
+<img width="268" height="145" alt="QGIS" src="https://github.com/user-attachments/assets/863a80b3-86d4-41c7-a47d-f2fc361ac41a" />
 
 * 📁 **`/Research_visuals` (графические материалы)**
     * `Approach.png` — визуальная схема подхода исследования
